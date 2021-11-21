@@ -5,7 +5,7 @@
 Make sure you have [Go](http://golang.org/doc/install) version 1.17 or newer and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.
 
 ```sh
-$ git clone https://github.com/heroku/real_world.git
+$ git clone https://github.com/anngoc21/real_world.git
 $ cd real_world
 $ go build -o bin/real_world -v . # or `go build -o bin/real_world.exe -v .` in git bash
 github.com/mattn/go-colorable

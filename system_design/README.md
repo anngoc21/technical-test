@@ -15,4 +15,3 @@ Một vài hình ảnh thực tế:
 - (1) Client có mốt đồ muốn đăng bán trên mobile app
 - (2) Để app có thể giao tiếp với hệ thống, cần phải có 1 đầu giao tiếp với service bên trong gọi là api gateway, cụ thể là kong gateway
 - (3), (4), (12) có những microservice, xử lý từng business logic riêng và mỗi service có thể sử dùng database hoặc ngôn ngữ riêng
-- 

@@ -1,4 +1,4 @@
-module github.com/heroku/real_world
+module github.com/anngoc21/real_world
 
 // +heroku goVersion go1.17
 go 1.17
