@@ -2,4 +2,4 @@
 .docker_build/
 bin/
 .idea/
- vendor/
+vendor
